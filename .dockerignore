@@ -1,0 +1,30 @@
+# Ignore the data directory, except for raw_html
+data/*
+!data/raw_html/
+
+# Ignore predictions and output directories
+predictions/
+predictions_new/
+output/
+
+# Ignore training run logs and checkpoints
+runs/
+
+# Ignore models, but keep best.pt if it exists
+models/*
+!models/best.pt
+
+# Ignore virtual environments, cache, and compiled Python files
+.venv
+venv
+__pycache__
+*.pyc
+*.pyo
+.pytest_cache
+
+# Ignore Git files
+.git
+.gitignore
+
+# Optional: Ignore local environment variables
+.env

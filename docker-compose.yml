@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  detection:
+    # Build the image from the Dockerfile in the current directory
+    build: .
+    image: dld-yolov8:latest
+    container_name: dld_prediction
+    
+    # Mount volumes to allow the container to access local datasets and save output locally
+    volumes:
+      # Mount the local data folder (contains your large images) to /app/data
+      - ./data:/app/data
+      # Mount the output predictions folder
+      - ./output:/app/output
+      # Optional: Mount the models folder if you want to swap weights without rebuilding
+      - ./models:/app/models
+    
+    # Optional port mapping for future web interface
+    ports:
+      - "8080:8080"
+    
+    # The default command. You can adjust these arguments based on how your predict_layout.py works.
+    command: >
+      python scripts/predict_layout.py
+      --image_dir /app/data/synthetic_dataset/images
+      --output_dir /app/output
+      --model_path /app/models/best.pt
+      
+    # GPU Support Configuration
+    # This block allows Docker to utilize NVIDIA GPUs for faster YOLOv8 inference.
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1       # Use 1 GPU. Set to 'all' if you want to use multiple GPUs.
+              capabilities: [gpu]
