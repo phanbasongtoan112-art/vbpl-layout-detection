@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="960" viewBox="0 0 1200 960">
+  <rect width="1200" height="960" fill="#f3f4f6"/>
+  <rect x="160" y="35" width="880" height="890" rx="8" fill="#ffffff" stroke="#d1d5db"/>
+  <rect x="220" y="90" width="760" height="74" fill="none" stroke="#ef4444" stroke-width="4"/>
+  <text x="230" y="82" font-family="Arial, sans-serif" font-size="22" fill="#ef4444">title</text>
+  <rect x="220" y="210" width="760" height="44" fill="none" stroke="#2563eb" stroke-width="4"/>
+  <text x="230" y="202" font-family="Arial, sans-serif" font-size="20" fill="#2563eb">section</text>
+  <rect x="220" y="296" width="760" height="180" fill="none" stroke="#16a34a" stroke-width="4"/>
+  <text x="230" y="288" font-family="Arial, sans-serif" font-size="20" fill="#16a34a">paragraph</text>
+  <rect x="220" y="520" width="760" height="250" fill="none" stroke="#7c3aed" stroke-width="4"/>
+  <text x="230" y="512" font-family="Arial, sans-serif" font-size="20" fill="#7c3aed">table</text>
+  <rect x="220" y="805" width="400" height="82" fill="none" stroke="#f59e0b" stroke-width="4"/>
+  <text x="230" y="797" font-family="Arial, sans-serif" font-size="20" fill="#f59e0b">list</text>
+  <text x="235" y="132" font-family="Arial, sans-serif" font-size="30" fill="#111827">NGHỊ ĐỊNH SỐ 249/2025/NĐ-CP</text>
+  <text x="235" y="241" font-family="Arial, sans-serif" font-size="24" fill="#111827">Chương I. Quy định chung</text>
+  <text x="235" y="335" font-family="Arial, sans-serif" font-size="18" fill="#374151">Văn bản mẫu này mô phỏng một tài liệu có bảng lớn và phần liệt kê ở cuối.</text>
+  <text x="235" y="366" font-family="Arial, sans-serif" font-size="18" fill="#374151">Ảnh chụp đầu ra thực tế sẽ được tạo từ HTML sau khi Selenium render đầy đủ CSS.</text>
+  <text x="235" y="397" font-family="Arial, sans-serif" font-size="18" fill="#374151">Các box YOLO sẽ được chuẩn hóa theo kích thước ảnh PNG đã lưu.</text>
+  <g fill="#f9fafb" stroke="#9ca3af">
+    <rect x="235" y="540" width="730" height="210"/>
+    <line x1="235" y1="592" x2="965" y2="592"/>
+    <line x1="235" y1="644" x2="965" y2="644"/>
+    <line x1="235" y1="696" x2="965" y2="696"/>
+    <line x1="478" y1="540" x2="478" y2="750"/>
+    <line x1="721" y1="540" x2="721" y2="750"/>
+  </g>
+  <text x="250" y="842" font-family="Arial, sans-serif" font-size="19" fill="#111827">1. Điều kiện áp dụng</text>
+  <text x="250" y="870" font-family="Arial, sans-serif" font-size="19" fill="#111827">2. Cơ chế tổ chức thực hiện</text>
+</svg>

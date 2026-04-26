@@ -1,0 +1,9 @@
+[
+  {
+    "source": "C:/DLD/data/synthetic_dataset/images/doc_000001.png",
+    "annotated_image": "C:/DLD/predictions_new/doc_000001_pred.png",
+    "boxes_json": "C:/DLD/predictions_new/doc_000001_pred.json",
+    "boxes_txt": "C:/DLD/predictions_new/doc_000001_pred.txt",
+    "detections": 0
+  }
+]

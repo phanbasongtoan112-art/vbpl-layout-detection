@@ -1,0 +1,20 @@
+2026-04-26 19:42:52,728 | WARNING | CUDA is not available. Falling back to CPU for inference.
+2026-04-26 19:42:52,728 | INFO | Loading model from models\best.pt
+2026-04-26 19:50:18,822 | WARNING | CUDA is not available. Falling back to CPU for inference.
+2026-04-26 19:50:18,822 | INFO | Loading model from models\best.pt
+2026-04-26 19:51:10,903 | WARNING | CUDA is not available. Falling back to CPU for inference.
+2026-04-26 19:51:10,903 | INFO | Loading model from models\best.pt
+2026-04-26 19:51:13,229 | INFO | doc_000001.png -> 0 detection(s)
+2026-04-26 19:51:13,230 | INFO | Saved annotated predictions to predictions
+2026-04-26 19:51:59,277 | WARNING | CUDA is not available. Falling back to CPU for inference.
+2026-04-26 19:51:59,278 | INFO | Loading model from models\best.pt
+2026-04-26 19:52:01,695 | INFO | doc_000010.png -> 0 detection(s)
+2026-04-26 19:52:01,696 | INFO | Saved annotated predictions to predictions
+2026-04-26 19:52:49,038 | WARNING | CUDA is not available. Falling back to CPU for inference.
+2026-04-26 19:52:49,038 | INFO | Loading model from models\best.pt
+2026-04-26 19:52:51,208 | INFO | doc_000001.png -> 0 detection(s)
+2026-04-26 19:52:51,209 | INFO | Saved annotated predictions to predictions
+2026-04-26 20:16:56,544 | WARNING | CUDA is not available. Falling back to CPU for inference.
+2026-04-26 20:16:56,545 | INFO | Loading model from models\best.pt
+2026-04-26 20:16:59,331 | INFO | doc_000001.png -> 0 detection(s)
+2026-04-26 20:16:59,333 | INFO | Saved annotated predictions to predictions_new

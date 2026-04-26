@@ -1,0 +1,25 @@
+{
+  "dataset_yaml": "C:/DLD/data/synthetic_dataset/dataset.yaml",
+  "save_dir": "C:/DLD/runs/detect/vbpl_layout",
+  "best_model": "C:/DLD/models/best.pt",
+  "device": "cpu",
+  "epochs": 5,
+  "batch": 4,
+  "imgsz": 640,
+  "metrics": {
+    "                  epoch": "                      5",
+    "         train/box_loss": "                 4.2917",
+    "         train/cls_loss": "                 4.0385",
+    "         train/dfl_loss": "                 2.0669",
+    "   metrics/precision(B)": "                0.00701",
+    "      metrics/recall(B)": "                0.14893",
+    "       metrics/mAP50(B)": "                0.02862",
+    "    metrics/mAP50-95(B)": "                0.01232",
+    "           val/box_loss": "                 3.6054",
+    "           val/cls_loss": "                 4.1276",
+    "           val/dfl_loss": "                 1.4515",
+    "                 lr/pg0": "             5.5461e-05",
+    "                 lr/pg1": "             5.5461e-05",
+    "                 lr/pg2": "             5.5461e-05"
+  }
+}

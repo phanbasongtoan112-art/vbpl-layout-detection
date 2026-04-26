@@ -1,0 +1,11 @@
+@"
+.venv/
+data/synthetic_dataset/images/
+*.zip
+*.png
+*.jpg
+*.jpeg
+__pycache__/
+*.pyc
+.DS_Store
+"@ | Out-File -FilePath .gitignore -Encoding utf8

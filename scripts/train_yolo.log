@@ -1,0 +1,30 @@
+2026-04-26 15:55:28,144 | WARNING | CUDA is not available. Falling back to CPU. Training will be slower.
+2026-04-26 15:55:28,144 | INFO | Loading pre-trained weights: yolov8n.pt
+2026-04-26 15:55:29,900 | INFO | Dataset YAML: C:\Users\ACER\OneDrive\Máy tính\Toan FIles\New project\Document-Layout-Detection\data\synthetic_dataset\dataset.yaml
+2026-04-26 15:55:29,900 | INFO | Device: cpu
+2026-04-26 15:55:29,901 | INFO | Pre-trained model: C:\Users\ACER\OneDrive\Máy tính\Toan FIles\New project\Document-Layout-Detection\models\yolov8n.pt
+2026-04-26 15:57:29,926 | WARNING | CUDA is not available. Falling back to CPU. Training will be slower.
+2026-04-26 15:57:29,927 | INFO | Dataset YAML: C:\Users\ACER\OneDrive\Máy tính\Toan FIles\New project\Document-Layout-Detection\data\synthetic_dataset\dataset.yaml
+2026-04-26 15:57:29,927 | INFO | Device: cpu
+2026-04-26 15:57:29,927 | INFO | Pre-trained model: C:\Users\ACER\OneDrive\Máy tính\Toan FIles\New project\Document-Layout-Detection\yolov8n.pt
+2026-04-26 16:01:07,210 | WARNING | CUDA is not available. Falling back to CPU. Training will be slower.
+2026-04-26 16:01:07,210 | INFO | Dataset YAML: C:\Users\ACER\OneDrive\Máy tính\Toan FIles\New project\Document-Layout-Detection\data\synthetic_dataset\dataset.yaml
+2026-04-26 16:01:07,210 | INFO | Device: cpu
+2026-04-26 16:01:07,213 | INFO | Pre-trained model: C:\Users\ACER\OneDrive\Máy tính\Toan FIles\New project\Document-Layout-Detection\yolov8n.pt
+2026-04-26 16:03:40,528 | WARNING | CUDA is not available. Falling back to CPU. Training will be slower.
+2026-04-26 16:03:40,529 | INFO | Dataset YAML: C:\Users\ACER\OneDrive\Máy tính\Toan FIles\New project\Document-Layout-Detection\data\synthetic_dataset\dataset.yaml
+2026-04-26 16:03:40,529 | INFO | Device: cpu
+2026-04-26 16:03:40,530 | INFO | Pre-trained model: C:\Users\ACER\OneDrive\Máy tính\Toan FIles\New project\Document-Layout-Detection\yolov8n.pt
+2026-04-26 16:12:42,479 | WARNING | CUDA is not available. Falling back to CPU. Training will be slower.
+2026-04-26 16:12:42,480 | INFO | Dataset YAML: C:\DLD\data\synthetic_dataset\dataset.yaml
+2026-04-26 16:12:42,480 | INFO | Device: cpu
+2026-04-26 16:12:42,480 | INFO | Pre-trained model: C:\DLD\yolov8n.pt
+2026-04-26 16:13:42,182 | INFO | Copied best weights to C:\DLD\models\best.pt
+2026-04-26 16:13:42,198 | INFO | Exported TensorBoard scalars to C:\DLD\models\tensorboard
+2026-04-26 16:13:42,200 | INFO | Training summary written to C:\DLD\models\training_summary.json
+2026-04-26 21:47:22,150 | INFO | Dataset YAML: C:\DLD\data\synthetic_dataset\dataset.yaml
+2026-04-26 21:47:22,151 | INFO | Device: cpu
+2026-04-26 21:47:22,152 | INFO | Pre-trained model: C:\DLD\yolov8n.pt
+2026-04-26 21:53:58,118 | INFO | Dataset YAML: C:\DLD\data\synthetic_dataset\dataset.yaml
+2026-04-26 21:53:58,120 | INFO | Device: cpu
+2026-04-26 21:53:58,121 | INFO | Pre-trained model: C:\DLD\yolov8n.pt

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="980" viewBox="0 0 1200 980">
+  <rect width="1200" height="980" fill="#eef2f7"/>
+  <rect x="170" y="40" width="860" height="900" rx="8" fill="#ffffff" stroke="#d1d5db"/>
+  <rect x="235" y="88" width="730" height="72" fill="none" stroke="#ef4444" stroke-width="4"/>
+  <text x="245" y="80" font-family="Arial, sans-serif" font-size="22" fill="#ef4444">title</text>
+  <rect x="235" y="205" width="310" height="40" fill="none" stroke="#2563eb" stroke-width="4"/>
+  <text x="245" y="197" font-family="Arial, sans-serif" font-size="20" fill="#2563eb">section</text>
+  <rect x="235" y="280" width="730" height="210" fill="none" stroke="#16a34a" stroke-width="4"/>
+  <text x="245" y="272" font-family="Arial, sans-serif" font-size="20" fill="#16a34a">paragraph</text>
+  <rect x="235" y="535" width="730" height="128" fill="none" stroke="#f59e0b" stroke-width="4"/>
+  <text x="245" y="527" font-family="Arial, sans-serif" font-size="20" fill="#f59e0b">list</text>
+  <rect x="235" y="710" width="730" height="170" fill="none" stroke="#7c3aed" stroke-width="4"/>
+  <text x="245" y="702" font-family="Arial, sans-serif" font-size="20" fill="#7c3aed">table</text>
+  <text x="248" y="130" font-family="Arial, sans-serif" font-size="28" fill="#111827">THÔNG TƯ HƯỚNG DẪN THI HÀNH</text>
+  <text x="248" y="235" font-family="Arial, sans-serif" font-size="24" fill="#111827">Mục 1. Nội dung chính</text>
+  <text x="248" y="325" font-family="Arial, sans-serif" font-size="18" fill="#374151">Phần này minh họa một tài liệu có nhiều đoạn văn bản liên tiếp, một danh sách</text>
+  <text x="248" y="355" font-family="Arial, sans-serif" font-size="18" fill="#374151">các đầu mục và một bảng nhỏ ở cuối trang. Khi chạy thật, script sẽ sinh box</text>
+  <text x="248" y="385" font-family="Arial, sans-serif" font-size="18" fill="#374151">trực tiếp từ tọa độ DOM được Selenium trả về.</text>
+  <text x="260" y="577" font-family="Arial, sans-serif" font-size="19" fill="#111827">• Phạm vi quản lý</text>
+  <text x="260" y="609" font-family="Arial, sans-serif" font-size="19" fill="#111827">• Đối tượng áp dụng</text>
+  <text x="260" y="641" font-family="Arial, sans-serif" font-size="19" fill="#111827">• Trách nhiệm thực hiện</text>
+  <g fill="#f9fafb" stroke="#9ca3af">
+    <rect x="250" y="730" width="700" height="140"/>
+    <line x1="250" y1="777" x2="950" y2="777"/>
+    <line x1="250" y1="824" x2="950" y2="824"/>
+    <line x1="483" y1="730" x2="483" y2="870"/>
+    <line x1="716" y1="730" x2="716" y2="870"/>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#eef2f7"/>
+  <rect x="180" y="40" width="840" height="820" rx="8" fill="#ffffff" stroke="#d1d5db"/>
+  <rect x="240" y="85" width="720" height="70" fill="none" stroke="#ef4444" stroke-width="4"/>
+  <text x="248" y="78" font-family="Arial, sans-serif" font-size="22" fill="#ef4444">title</text>
+  <rect x="240" y="200" width="290" height="36" fill="none" stroke="#2563eb" stroke-width="4"/>
+  <text x="248" y="193" font-family="Arial, sans-serif" font-size="20" fill="#2563eb">section</text>
+  <rect x="240" y="270" width="720" height="95" fill="none" stroke="#16a34a" stroke-width="4"/>
+  <text x="248" y="263" font-family="Arial, sans-serif" font-size="20" fill="#16a34a">paragraph</text>
+  <rect x="240" y="410" width="720" height="190" fill="none" stroke="#7c3aed" stroke-width="4"/>
+  <text x="248" y="403" font-family="Arial, sans-serif" font-size="20" fill="#7c3aed">table</text>
+  <rect x="240" y="660" width="340" height="118" fill="none" stroke="#f59e0b" stroke-width="4"/>
+  <text x="248" y="653" font-family="Arial, sans-serif" font-size="20" fill="#f59e0b">list</text>
+  <text x="255" y="125" font-family="Arial, sans-serif" font-size="34" fill="#111827">LUẬT HOẠT ĐỘNG GIÁM SÁT</text>
+  <text x="255" y="228" font-family="Arial, sans-serif" font-size="24" fill="#111827">Điều 1. Phạm vi điều chỉnh</text>
+  <text x="255" y="308" font-family="Arial, sans-serif" font-size="19" fill="#374151">Văn bản này quy định phạm vi, đối tượng, nguyên tắc và nội dung giám sát.</text>
+  <text x="255" y="340" font-family="Arial, sans-serif" font-size="19" fill="#374151">Các đoạn văn được đánh dấu làm dữ liệu paragraph cho mô hình layout.</text>
+  <g fill="#f9fafb" stroke="#9ca3af">
+    <rect x="255" y="430" width="690" height="150"/>
+    <line x1="255" y1="480" x2="945" y2="480"/>
+    <line x1="255" y1="530" x2="945" y2="530"/>
+    <line x1="485" y1="430" x2="485" y2="580"/>
+    <line x1="715" y1="430" x2="715" y2="580"/>
+  </g>
+  <text x="265" y="705" font-family="Arial, sans-serif" font-size="20" fill="#111827">• Phạm vi áp dụng</text>
+  <text x="265" y="738" font-family="Arial, sans-serif" font-size="20" fill="#111827">• Cơ quan thực hiện</text>
+  <text x="265" y="771" font-family="Arial, sans-serif" font-size="20" fill="#111827">• Hiệu lực thi hành</text>
+</svg>
